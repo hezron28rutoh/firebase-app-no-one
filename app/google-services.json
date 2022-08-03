@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67030194338",
+    "project_id": "morning-firefox-database-app",
+    "storage_bucket": "morning-firefox-database-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67030194338:android:da35030dca3310c8d21ffb",
+        "android_client_info": {
+          "package_name": "com.example.morningfirefoxdatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67030194338-4nvmusepfiqru9mhtba11qaqhtibvduh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuF3o3173qKVIPNhVEwLXqpeJZp25P8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67030194338-4nvmusepfiqru9mhtba11qaqhtibvduh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

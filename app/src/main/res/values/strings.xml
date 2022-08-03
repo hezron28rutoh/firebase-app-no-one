@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morning Firefox Database App</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+</resources>
